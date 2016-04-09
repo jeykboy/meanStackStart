@@ -1,0 +1,15 @@
+{
+  "name": "methodtwo",
+  "version": "1.0.0",
+  "description": "Method Two of connection Using Express js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jeyk Joseph",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
